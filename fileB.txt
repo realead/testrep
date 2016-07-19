@@ -1,3 +1,5 @@
 I'm file B!
 
 I'm not file A!
+
+I don't care about line numbers!
