@@ -1,0 +1,11 @@
+I'm file B!
+
+I'm not file A!
+
+I don't care about line numbers!
+
+This line could be line 7 or 8 or 134234 - all the same to me!
+
+I'm a fan of game of thrones!
+
+The winter is comming!
